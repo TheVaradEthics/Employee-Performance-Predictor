@@ -186,4 +186,5 @@ Feel free to fork this repo and improve it!
 ## 📌 Author
 
 **Varad Payghan**
+
 Built as a placement-ready ML project 🚀
