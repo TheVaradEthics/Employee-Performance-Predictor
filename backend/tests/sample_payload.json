@@ -1,0 +1,19 @@
+{
+  "age": 30,
+  "experience_years": 6,
+  "department": "IT",
+  "education_level": "Bachelor",
+  "work_mode": "Hybrid",
+  "job_level": 2,
+  "salary": 520000,
+  "training_hours": 42,
+  "projects_completed": 5,
+  "average_monthly_hours": 176,
+  "on_time_delivery_rate": 0.86,
+  "absenteeism_days": 2,
+  "satisfaction_score": 7.8,
+  "manager_feedback_score": 8.2,
+  "peer_feedback_score": 8.0,
+  "overtime_hours": 10,
+  "promotions_last_5_years": 1
+}
